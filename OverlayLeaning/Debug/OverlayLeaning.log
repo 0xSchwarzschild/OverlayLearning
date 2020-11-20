@@ -1,0 +1,5 @@
+﻿  Draw.cpp
+C:\Users\ItsAl\source\repos\OverlayLeaning\OverlayLeaning\Draw.cpp(59): warning C4715: 'Draw::render': not all control paths return a value
+Draw.obj : error LNK2019: unresolved external symbol _D3DXCreateFontA@48 referenced in function "private: int __thiscall Draw::init(struct HWND__ *)" (?init@Draw@@AAEHPAUHWND__@@@Z)
+d3dx9.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\ItsAl\source\repos\OverlayLeaning\Debug\OverlayLeaning.exe : fatal error LNK1120: 1 unresolved externals
